@@ -11,7 +11,7 @@
   "devDependencies": {},
   "dependencies": {
     "cors": "^2.8.5",
-    "electron": "^9.0.3",
+    "electron": "^13.6.6",
     "electron-fetch": "^1.4.0",
     "electron-tray-window": "^1.2.5",
     "express": "^4.17.1",
