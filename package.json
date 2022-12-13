@@ -14,7 +14,7 @@
     "electron": "^9.0.3",
     "electron-fetch": "^1.4.0",
     "electron-tray-window": "^1.2.5",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "node-fetch": "^2.6.0",
     "passport-spotify": "^1.1.0",
     "request": "^2.88.2"
